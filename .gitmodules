@@ -1,0 +1,24 @@
+[submodule "sundials"]
+	path = sundials
+	url = git@github.com:LLNL/sundials.git
+	branch = main
+[submodule "hypre"]
+	path = hypre
+	url = git@github.com:hypre-space/hypre.git
+	branch = master
+[submodule "BOUT-dev"]
+	path = BOUT-dev
+	url = git@github.com:boutproject/BOUT-dev.git
+	branch = master
+[submodule "GEM"]
+	path = GEM
+	url = git@github.com:UCBoulder/GEM.git
+	branch = main
+[submodule "ADIOS2"]
+	path = ADIOS2
+	url = git@github.com:ornladios/ADIOS2.git
+	branch = master
+[submodule "vpic-kokkos"]
+	path = vpic-kokkos
+	url = git@github.com:lanl/vpic-kokkos.git
+	branch = devel
